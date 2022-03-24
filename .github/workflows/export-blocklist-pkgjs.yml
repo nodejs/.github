@@ -1,0 +1,14 @@
+name: Import Blocklist
+on:
+    workflow_dispatch:
+
+jobs:
+  import_blocklist:
+    if: github.repository == 'nodejs/.github' # only try to run when in the originating repo, since forks will be missing the token
+    runs-on: ubuntu-latest
+    steps:
+      - uses: pkgjs/action-import-blocklist@HEAD
+        with:
+          sourceOrganization: nodejs # we take the nodejs blocklist
+          targetOrganization: pkgjs # and push it somewhere else - in this case, the pkgjs org
+          token: ${{ secrets.BLOCKLIST_TOKEN }}
