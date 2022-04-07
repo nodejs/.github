@@ -1,4 +1,4 @@
-name: Import Blocklist
+name: Export blocklist to pkgjs
 on:
     workflow_dispatch:
 
