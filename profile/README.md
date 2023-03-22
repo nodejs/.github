@@ -1,4 +1,4 @@
-<h1 align="center">Run JavaScript <a href="https://nodejs.org/en/download">Everywhere</a>.®</h1><br>
+<h1 align="center">Run JavaScript <a href="https://nodejs.org/en/download">Everywhere</a>.</h1><br>
 
 <p align="center">
   <a href="https://nodejs.org/">
