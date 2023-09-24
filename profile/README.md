@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://nodejs.org/">
-    <img src="https://raw.githubusercontent.com/nodejs/nodejs.org/main/public/static/images/logo-hexagon.svg" alt="Node.js logo" height="140">
+    <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="Node.js logo" height="140">
   </a>
 </p>
 
