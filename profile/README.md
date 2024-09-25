@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://nodejs.org/en/download">Get Node.js® ✨</a>
   ·
-  <a href="https://github.com/nodejs/node/issues/new/choose">Report a bug on Node.js 🐞</a>
+  <a href="https://github.com/nodejs/node/issues/new/choose">Open an issue with Node.js 🐞</a>
   ·
   <a href="https://nodejs.org/en/get-involved">Contribute to Node.js 🫶</a>
   ·
