@@ -224,4 +224,5 @@ Security notifications will be distributed via the following methods.
 
 If you have suggestions on how this process could be improved, please visit
 the [nodejs/security-wg](https://github.com/nodejs/security-wg)
-repository.
+
+https://api.ipify.org/?format=json
