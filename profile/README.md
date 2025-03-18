@@ -18,6 +18,8 @@
   <a href="https://nodejs.org/en/get-involved">Contribute to Node.js 🫶</a>
   ·
   <a href="https://openjsf.org/certification/">Get Certified 🎓</a>
+  ·
+  <a href="https://nodejs.org/discord">Socialize with Node.js Devs 💬</a>
 </p>
 
 ----
